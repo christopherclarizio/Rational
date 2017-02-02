@@ -1,4 +1,4 @@
-//Christopher Clarizio CSE20311 10/27/2016
+//Christopher Clarizio
 //Class inplementation for the interface rational.h
 
 #include "rational.h"
